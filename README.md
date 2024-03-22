@@ -10,3 +10,15 @@
 
      
   ![njs1](https://github.com/chandanakavuri1426/Next.js-Project/assets/97304208/dd0687b0-4bac-489a-a9c8-4b08161beef3)
+
+
+
+
+
+![njs2](https://github.com/chandanakavuri1426/Next.js-Project/assets/97304208/8c2e5fc7-ab07-4bf1-83e8-f2f921346f2b)
+
+
+
+
+
+![njs3](https://github.com/chandanakavuri1426/Next.js-Project/assets/97304208/a5e450f6-3baf-4a3e-af76-e9d641a75109)
